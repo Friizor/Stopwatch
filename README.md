@@ -9,5 +9,3 @@ stopwatch application built with HTML, CSS, and JavaScript.
 </ul>
 <p>This stopwatch is perfect for anyone looking for a simple and effective way to track time in various scenarios.</p>
 </blockquote>
-
-This description expands on the features, mentions the codebase structure, and highlights the application's usefulness. Remember to update the description with any additional features your stopwatch offers.
