@@ -4,7 +4,7 @@
     </a>
     <img src="https://github.com/Friizor/Stopwatch/assets/91889739/1ae85be2-c459-41f6-9138-3ec66d38eabf" height="250px" alt="Screenshot">
 </div>
-# Stopwatch
+<h1> Stopwatch </h1>
 stopwatch application built with HTML, CSS, and JavaScript.
 
 <p>A lightweight and customizable stopwatch application built with HTML, CSS, and JavaScript.</p>
