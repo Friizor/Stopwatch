@@ -2,7 +2,7 @@
     <a href="https://friizor.github.io/Stopwatch/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-Link-brightgreen" alt="Demo Link">
     </a><br>
-    <img src="![Uploading Huawei-P30-PRO-friizor.github.io.png…]()" height="250px" alt="Screenshot">
+    <img src="https://github.com/Friizor/Stopwatch/assets/153310182/141bd593-d5b4-4723-a3a0-76ba1b945f2e" height="250px" alt="Screenshot">
 </div>
 <h1> Stopwatch </h1>
 stopwatch application built with HTML, CSS, and JavaScript.
