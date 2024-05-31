@@ -1,10 +1,11 @@
-# Stopwatch
-stopwatch application built with HTML, CSS, and JavaScript.
 <div align="center">
     <a href="https://islamhamdaoui.github.io/weather-website/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-Link-brightgreen" alt="Demo Link">
     </a>
+    <img src="https://github.com/Friizor/Stopwatch/assets/91889739/1ae85be2-c459-41f6-9138-3ec66d38eabf" height="250px" alt="Screenshot">
 </div>
+# Stopwatch
+stopwatch application built with HTML, CSS, and JavaScript.
 
 <p>A lightweight and customizable stopwatch application built with HTML, CSS, and JavaScript.</p>
 <p>This project provides a user-friendly interface for tracking elapsed time with features including:</p>
