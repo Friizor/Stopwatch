@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://islamhamdaoui.github.io/weather-website/" target="_blank">
         <img src="https://img.shields.io/badge/Demo-Link-brightgreen" alt="Demo Link">
-    </a>
+    </a><br>
     <img src="https://github.com/Friizor/Stopwatch/assets/91889739/1ae85be2-c459-41f6-9138-3ec66d38eabf" height="250px" alt="Screenshot">
 </div>
 <h1> Stopwatch </h1>
