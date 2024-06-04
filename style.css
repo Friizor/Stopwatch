@@ -66,3 +66,22 @@ body {
 #reset:hover {
     background-color: hsl(240, 100%, 40%);
 }
+
+@media screen and (max-width:1000px) {
+.watch {
+    font-size: 3.5rem;
+}
+.buttons button {
+    min-width: 10px;
+    padding: 10px 15px;
+}
+}
+@media screen and (max-width:360px) {
+.watch {
+    font-size: 3rem;
+}
+.buttons button {
+    min-width: 10px;
+    padding: 10px 12px;
+}
+}
