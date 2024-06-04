@@ -40,4 +40,29 @@ body {
     border-radius: 8px;
     cursor: pointer;
     color: white;
+    transition: background-color 0.5s ease;
+}
+
+#start {
+    background-color: hsl(120, 100%, 50%);
+}
+
+#start:hover {
+    background-color: hsl(120, 100%, 40%);
+}
+
+#stop {
+    background-color: hsl(0, 100%, 50%);
+}
+
+#stop:hover {
+    background-color: hsl(0, 100%, 40%);
+}
+
+#reset {
+    background-color: hsl(240, 100%, 50%);
+}
+
+#reset:hover {
+    background-color: hsl(240, 100%, 40%);
 }
