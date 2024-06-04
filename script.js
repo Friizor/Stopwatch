@@ -26,7 +26,12 @@ function stop() {
 }
 
 function reset() {
+    clearInterval(timer);
+    startTime = 0;
+    eloTime = 0;
+    statu = false;
 
+    watch.textContent = "00:00:00:00"
 }
 
 function displaying() {
