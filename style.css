@@ -21,3 +21,10 @@ body {
     border-radius: 8px;
 }
 
+.watch {
+    font-size: 4rem;
+    font-family: monospace;
+    font-weight: bold;
+    color: hsl(0, 0%, 30%);
+    text-shadow: 2px 2px 2px hsla(0, 0%, 30%, 0.4);
+}
