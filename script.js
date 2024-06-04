@@ -19,7 +19,9 @@ function start() {
 
 function stop() {
     if (statu) {
-        clearInterval(timer)
+        clearInterval(timer);
+        eloTime = Date.now() - startTime;
+        statu = false;
     }
 }
 
