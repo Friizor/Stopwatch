@@ -16,3 +16,18 @@ stopwatch application built with HTML, CSS, and JavaScript.
 </ul>
 <p>This stopwatch is perfect for anyone looking for a simple and effective way to track time in various scenarios.</p>
 </blockquote>
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Friizor/Stopwatch.git
+   ```
+2. Navigate to the project directory:
+`````bash
+cd Stopwatch
+`````
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue to discuss your ideas.
